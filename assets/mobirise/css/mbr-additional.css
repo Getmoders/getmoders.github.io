@@ -1727,71 +1727,39 @@ body {
 .cid-sxIyc6a8z8 .media-container-column .btn-bgr {
   z-index: 0;
 }
-.cid-sxJp8KiHbZ {
-  background-image: url("../../../assets/images/66482513-m-2000x940.jpg");
-}
-.cid-sxJp8KiHbZ .text-content {
-  padding-top: 120px;
-  padding-bottom: 60px;
-}
-.cid-sxJp8KiHbZ .text-content .btn-bgr {
-  z-index: 0;
-}
-.cid-sxJp8KiHbZ .mbr-overlay {
-  background: linear-gradient(90deg, #c1c1c1, #4284df);
-}
-.cid-sxJp8KiHbZ h3 {
-  color: #000000;
-  font-weight: 300;
-}
-.cid-sxJp8KiHbZ p {
-  color: #464646;
-}
-.cid-sxJp8KiHbZ h2 {
-  color: #000000;
-}
-.cid-sxJp8KiHbZ .media-container-row {
-  padding-left: 3rem;
-  padding-right: 3rem;
-}
-@media (max-width: 767px) {
-  .cid-sxJp8KiHbZ .media-container-row {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-}
-.cid-sxJp8KiHbZ .text-content {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  width: 50%;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sxJp8KiHbZ .text-content {
-    width: 80%;
-  }
-}
-@media (max-width: 599px) {
-  .cid-sxJp8KiHbZ .text-content {
-    width: 100%;
-  }
-}
-.cid-sxJp8KiHbZ .media-content {
-  padding-right: 1.5rem;
-  padding-left: 0;
-}
-.cid-sxJp8KiHbZ .mbr-section-btn {
-  margin-left: -0.8rem;
-}
-@media (max-width: 767px) {
-  .cid-sxJp8KiHbZ .mbr-text {
-    text-align: center;
-  }
-}
 .cid-sypLRtlos1 {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #efefef;
+}
+.cid-syz0jOAfdZ {
+  padding-top: 120px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/mbr-1920x1200.jpg");
+}
+.cid-syz0jOAfdZ .media-content .btn-bgr {
+  z-index: 0;
+}
+.cid-syz0jOAfdZ .mbr-section-text {
+  word-break: break-word;
+}
+.cid-syz0jOAfdZ .mbr-overlay {
+  background: linear-gradient(90deg, #333333, #555555);
+}
+@media (min-width: 992px) {
+  .cid-syz0jOAfdZ .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-syz0jOAfdZ .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-syz0jOAfdZ .mbr-text {
+    text-align: center;
+  }
 }
 .cid-sytcDGPDxC {
   background-image: url("../../../assets/images/40857865-m-2000x1295.jpg");
