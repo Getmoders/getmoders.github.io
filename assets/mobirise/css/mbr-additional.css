@@ -858,72 +858,16 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-syL1i6WQ37 {
-  padding-top: 160px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/footerbg-blue.3a2adf492-1921x659.png");
+.cid-syL4idb9Up {
+  padding-top: 180px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/footerbg-blue.3a2adf49-1921x683.png");
 }
-.cid-syL1i6WQ37 .media-content .btn-bgr {
+.cid-syL4idb9Up .media-container-column .btn-bgr {
   z-index: 0;
 }
-.cid-syL1i6WQ37 .mbr-overlay {
-  background: linear-gradient(90deg, #efefef, #c1c1c1);
-}
-.cid-syL1i6WQ37 h3 {
-  color: #000000;
-  font-weight: 300;
-}
-.cid-syL1i6WQ37 p {
-  color: #464646;
-}
-.cid-syL1i6WQ37 h2 {
-  color: #000000;
-}
-.cid-syL1i6WQ37 .media-content {
-  padding-right: 1.5rem;
-  padding-left: 0;
-}
-.cid-syL1i6WQ37 .mbr-section-btn {
-  margin-left: -0.8rem;
-}
-.cid-syL1i6WQ37 .mbr-figure {
-  padding-right: 1rem;
-}
-@media (min-width: 500px) {
-  .cid-syL1i6WQ37 .mbr-figure {
-    padding-left: 2rem;
-  }
-}
-@media (max-width: 499px) {
-  .cid-syL1i6WQ37 .mbr-figure {
-    padding-top: 1rem;
-    padding-left: 2rem;
-    padding-right: 1rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-syL1i6WQ37 .mbr-figure {
-    padding-left: 0;
-    padding-right: 0;
-  }
-}
-@media (max-width: 767px) {
-  .cid-syL1i6WQ37 .mbr-text {
-    text-align: center;
-  }
-}
-.cid-syL1i6WQ37 .mbr-section-title,
-.cid-syL1i6WQ37 .mbr-section-btn {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-syL1i6WQ37 P {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-syL1i6WQ37 .mbr-section-subtitle {
-  color: #ffffff;
-  text-align: center;
+.cid-syL4idb9Up .mbr-overlay {
+  background: linear-gradient(#d6173f -10%, #00113e 75%);
 }
 #custom-html-y {
   /* Type valid CSS here */
@@ -974,11 +918,6 @@ body {
 }
 .cid-sxIrgEKvna .mbr-text {
   color: #2c1616;
-}
-.cid-syKYOXQXLw {
-  padding-top: 160px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/footerbg-blue.3a2adf492-1921x659.png");
 }
 .cid-sxJpmR0qQ0 {
   padding-top: 90px;
