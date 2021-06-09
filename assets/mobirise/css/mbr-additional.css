@@ -881,7 +881,7 @@ body {
   background-image: url("../../../assets/images/mbr-1920x1357.jpg");
 }
 .cid-sxIrgEKvna .mbr-overlay {
-  background: linear-gradient(90deg, #efefef, #c1c1c1);
+  background: linear-gradient(90deg, #efefef, #cccccc);
 }
 .cid-sxIrgEKvna h4,
 .cid-sxIrgEKvna h5 {
@@ -914,7 +914,7 @@ body {
   color: #2c1616;
 }
 .cid-sxIrgEKvna .card-title B {
-  color: #0c57bf;
+  color: #010209;
 }
 .cid-sxIrgEKvna .mbr-text {
   color: #2c1616;
